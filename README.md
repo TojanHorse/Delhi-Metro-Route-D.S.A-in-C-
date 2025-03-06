@@ -3,6 +3,8 @@
 
 This Metro Route Finder helps commuters and metro travelers find the shortest route between metro stations. It is designed for daily passengers, tourists, and city planners who need quick and efficient navigation through the metro network using Dijkstra’s Algorithm
 
+![App Screenshot]([https://raw.githubusercontent.com/TojanHorse/Delhi-Metro-Route-D.S.A-in-C-/refs/heads/main/Screenshot%202025-03-06%20084018.png](https://media.datacamp.com/legacy/v1716906527/image_c2753dfaae.png))
+
 
 ## Acknowledgements
 
@@ -21,6 +23,7 @@ Bobby Singh – Developer & Maintainer
 
 
 ![App Screenshot](https://raw.githubusercontent.com/TojanHorse/Delhi-Metro-Route-D.S.A-in-C-/refs/heads/main/Screenshot%202025-03-06%20083912.png)
+
 
 ![App Screenshot](https://raw.githubusercontent.com/TojanHorse/Delhi-Metro-Route-D.S.A-in-C-/refs/heads/main/Screenshot%202025-03-06%20084018.png)
 
