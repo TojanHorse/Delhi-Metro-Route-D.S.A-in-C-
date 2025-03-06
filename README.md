@@ -17,8 +17,12 @@ Developers and testers who helped refine and optimize the system for better usab
 Bobby Singh – Developer & Maintainer
 ## Screenshots
 
-![App Screenshot](https://imgur.com/SWAy8A6)
+![App Screenshot](https://raw.githubusercontent.com/TojanHorse/Delhi-Metro-Route-D.S.A-in-C-/refs/heads/main/Screenshot%202025-03-06%20083825.png)
 
+
+![App Screenshot](https://raw.githubusercontent.com/TojanHorse/Delhi-Metro-Route-D.S.A-in-C-/refs/heads/main/Screenshot%202025-03-06%20083912.png)
+
+![App Screenshot](https://raw.githubusercontent.com/TojanHorse/Delhi-Metro-Route-D.S.A-in-C-/refs/heads/main/Screenshot%202025-03-06%20084018.png)
 
 
 ## Installation
